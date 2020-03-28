@@ -1,6 +1,6 @@
 {
-  "name": "create-react-template-cli",
-  "version": "1.0.0",
+  "name": "quick-create-react-template-cli",
+  "version": "1.0.2",
   "description": "react快速创建模版工具",
   "main": "index.js",
   "bin": {
@@ -19,7 +19,7 @@
     "url": "https://github.com/islikai/create-react-template-cli/issues"
   },
   "homepage": "https://github.com/islikai/create-react-template-cli#readme",
-  "devDependencies": {
+  "dependencies": {
     "commander": "^5.0.0"
   }
 }

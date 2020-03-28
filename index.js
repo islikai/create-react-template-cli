@@ -1,4 +1,5 @@
-#!/usr/bin/env node   //,告诉操作系统用node来解释这个脚本
+#!/usr/bin/env node
+// 告诉操作系统用node来解释这个脚本
 
 const fs = require('fs');
 

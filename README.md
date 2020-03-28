@@ -2,12 +2,13 @@
 
 
 ### 使用方法
-npm 安装create-react-template-cli包
+1. 安装
 ```
-npm install create-react-template-cli
+npm install -g quick-create-react-template-cli
 ```
 
 创建模版
 ```
-rtc init <fileName>
+rtc -v
+rtc init <name>
 ```
