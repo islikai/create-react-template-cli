@@ -2,7 +2,7 @@
 
 
 ### 使用方法
-1. 安装
+安装
 ```
 npm install -g quick-create-react-template-cli
 ```
