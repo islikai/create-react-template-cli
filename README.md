@@ -15,4 +15,4 @@ rtc -v
 // 创建模版
 rtc init <name>
 ```
-![image]()
+![image](https://github.com/islikai/create-react-template-cli/blob/master/images/example.jpg)
