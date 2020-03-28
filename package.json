@@ -1,0 +1,25 @@
+{
+  "name": "create-react-template-cli",
+  "version": "1.0.0",
+  "description": "react快速创建模版工具",
+  "main": "index.js",
+  "bin": {
+    "rtc": "index.js" 
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/islikai/create-react-template-cli.git"
+  },
+  "author": "likai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/islikai/create-react-template-cli/issues"
+  },
+  "homepage": "https://github.com/islikai/create-react-template-cli#readme",
+  "devDependencies": {
+    "commander": "^5.0.0"
+  }
+}
