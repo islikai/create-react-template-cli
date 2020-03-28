@@ -1,6 +1,6 @@
 {
   "name": "quick-create-react-template-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "react快速创建模版工具",
   "main": "index.js",
   "bin": {
